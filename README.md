@@ -1,1 +1,1 @@
-This repository visualizes the airports in USA using QGIS.
+This repository visualizes the airports in USA using Leaflet.
