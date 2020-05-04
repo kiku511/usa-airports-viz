@@ -140,8 +140,8 @@ legend.onAdd = function () {
   div.innerHTML +=
     '<div class="box" style="background: ' + colors[0] + ';"></div><p> 0-5</p>';
   div.innerHTML += '<hr><b>With Control Tower</b><br />';
-  div.innerHTML += '<i class="fa fa-plane marker-color-1"></i><p> Yes</p>';
-  div.innerHTML += '<i class="fa fa-plane marker-color-2"></i><p> No</p>';
+  div.innerHTML += '<i class="fa fa-plane marker-color-2"></i><p> Yes</p>';
+  div.innerHTML += '<i class="fa fa-plane marker-color-1"></i><p> No</p>';
 
   // Return the Legend div containing the HTML content
   return div;
